@@ -1,2 +1,2 @@
 # REPROGRAMA
-Repositório para projeto REprograma
+Repositório para projeto Reprograma
